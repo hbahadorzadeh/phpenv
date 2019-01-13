@@ -1,2 +1,2 @@
 # phpenv
-Docker php7.2 complete enviroment
+Docker php7.2 complete environment
